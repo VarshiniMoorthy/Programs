@@ -1,0 +1,7 @@
+C:\Users\SONY\source\repos\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.csprojAssemblyReference.cache
+C:\Users\SONY\source\repos\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\StoredProcedure\StoredProcedure\bin\Debug\StoredProcedure.exe.config
+C:\Users\SONY\source\repos\StoredProcedure\StoredProcedure\bin\Debug\StoredProcedure.exe
+C:\Users\SONY\source\repos\StoredProcedure\StoredProcedure\bin\Debug\StoredProcedure.pdb
+C:\Users\SONY\source\repos\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.exe
+C:\Users\SONY\source\repos\StoredProcedure\StoredProcedure\obj\Debug\StoredProcedure.pdb
